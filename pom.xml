@@ -41,7 +41,7 @@
             </configuration>
         </plugin>
 
-      <plugins>
+      <plugin>
         <artifactId>maven-release-plugin</artifactId>
         <configuration>
           <autoVersionSubmodules>true</autoVersionSubmodules>
