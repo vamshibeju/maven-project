@@ -1,0 +1,45 @@
+ltp  - last traded price
+price which the share traded at the end 
+
+pre-open market session - 9 to 9:15 - 15 minutes session 
+------------------------
+=>to absorb the heavy fluctuations in the market 
+9 to 9:07 orders will be placed
+9:08 to 9:11 orders will be matched 
+last 4 mins 
+
+market hours - 9:15 to 3:30 
+------------
+
+
+
+
+After market oders -- 4pm to 9:00 Am(next morning)
+------------------
+we may place amos but they will get executed at 9:15 am 
+
+gap up opening -- if the share price opens at a price higher than the previous close price 
+
+gap down opening -- if the share price opens at a price lower than the previous close price
+
+unchanged-- if the share price opens at a same price which is previous close price then it is 
+		unchanged price .
+bonus 
+-----
+1:2 -- 1 freeshare for every 2 shares held 
+
+
+bonus shares - this are free shares issue by company to the investors 
+bonus declared in the ratio 1:1 
+example: a share cost of 1000 after bonus divided to 500 
+
+orginal price(cum dividend) - cumulative of dividend - 1000 
+ideal price(ex dividend) - exclude of dividend - 500 
+
+->who decides share price? demand and supply 
+
+types of markets
+1) primary 
+2) secondary 
+
+ 
