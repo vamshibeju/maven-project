@@ -12,7 +12,12 @@ pipeline {
             steps{
             execMaven()
             }
-            
-        }
+      }
+      
+           stage('mvnbuild'){
+            steps{
+            mvnunittest()
+            }
+      }
     }
 }
