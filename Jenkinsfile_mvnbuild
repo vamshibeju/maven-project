@@ -5,19 +5,17 @@ pipeline {
         stage('checkout'){
             steps{
              gitcheckout()
-        }
-            
-        }
-           stage('mvnbuild'){
+             }
+         }
+        stage('mvnbuild'){
             steps{
             execMaven()
             }
-      }
-      
-           stage('mvnbuild'){
+        }
+        stage('mvnunittest'){
             steps{
             mvnunittest()
             }
-      }
+        }
     }
 }
